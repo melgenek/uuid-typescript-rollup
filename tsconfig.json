@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "module": "es6",
+    "target": "ESNext",
+    "removeComments": true,
+    "allowJs": false,
+    "strictNullChecks": true,
+    "noImplicitReturns": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
